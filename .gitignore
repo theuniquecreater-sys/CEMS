@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Build outputs
+dist/
+build/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Coverage directories used by tools like istanbul
+coverage/
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.swp
